@@ -1,0 +1,14 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial;
+}
+th {
+    border-style: solid;
+    border-width: thin;
+    border-color: black !important;
+}
+h1 {
+    font-family: Arial;
+}
