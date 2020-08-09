@@ -1,0 +1,22 @@
+table {
+    background-color: orange;
+    width: 500px;
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
+}
+th {
+padding: 3.5%;
+}
+.even {
+ background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+.odd {
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+}
+
